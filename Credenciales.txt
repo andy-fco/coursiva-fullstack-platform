@@ -1,0 +1,4 @@
+Credenciales de Admin:
+
+mail: test@mail.com
+pass: 123456
