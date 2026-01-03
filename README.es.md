@@ -100,4 +100,4 @@ El proyecto sigue una estructura monorepo con una clara separación de responsab
 ## Idioma
 
 - Versión en español (este archivo)
-- Versión en inglés disponible en `README.md`
+- Versión en inglés disponible en [README.md](README.md)

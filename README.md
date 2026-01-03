@@ -100,4 +100,4 @@ The project follows a monorepo structure with a clear separation of concerns:
 ## Language
 
 - English version (this file)
-- Spanish version available in `README.es.md`
+- Spanish version available in [README.es.md](README.es.md)
